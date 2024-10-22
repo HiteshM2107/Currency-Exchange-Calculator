@@ -12,4 +12,4 @@ Select countries to get the exchange rate for a specific amount
 
 ## Additional information
 
-The app is live at- .Give it a try!
+The app is live at- https://hiteshm2107.github.io/Currency-Exchange-Calculator/. Give it a try!
