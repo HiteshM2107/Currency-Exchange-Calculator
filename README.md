@@ -9,3 +9,6 @@ Select countries to get the exchange rate for a specific amount
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
+
+## Additional Information
+The application is live at https://hiteshm2107.github.io/Currency-Exchange-Calculator/. Give it a try!
